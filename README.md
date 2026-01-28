@@ -57,6 +57,7 @@ valentines-project
 ## 1.Clone the repository
 
 ```
+https://github.com/sandhiya0147/Valentines-project
 
 ```
 
