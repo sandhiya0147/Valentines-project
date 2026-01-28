@@ -36,6 +36,7 @@ A fun and interactive Valentine’s Day proposal website built to express love i
 
 ## Project Structure
 
+```
 valentines-project
 ├── index.html        
 ├── yes.html          
@@ -46,6 +47,8 @@ valentines-project
 │   └── images/
 │       └── cute-cat.gif
 └── README.md
+
+```
 
 ---
 
@@ -77,7 +80,7 @@ Practice frontend fundamentals
 
 Create a memorable and personal Valentine surprise
 
-##Live Demo
+## Live Demo
 
 [Click here to view the deployed app](https://valentines-project-fawn.vercel.app)
 
